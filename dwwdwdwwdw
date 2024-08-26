@@ -1,0 +1,53 @@
+[33mcommit 7268ea91a517334d33c70c3a0e640cc1f044a531[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kescefko <markgyuro@gmail.com>
+Date:   Mon Aug 26 11:42:47 2024 +0200
+
+    Squashed commit of the following:
+    
+    commit d7cd37e20efa684189c439ba12267feabe8d729e
+    Author: Kescefko <markgyuro@gmail.com>
+    Date:   Mon Aug 26 11:11:16 2024 +0200
+    
+        squash merge file b
+
+[33mcommit 2beca20551516fa7f6ac65cd1b6c4bf99feb3080[m
+Author: Kescefko <markgyuro@gmail.com>
+Date:   Mon Aug 26 11:42:12 2024 +0200
+
+    squash merge file b on main
+
+[33mcommit 694347a6d192144d92d91ae8d31fcaeaff9b43b2[m[33m ([m[1;31morigin/FeatureA[m[33m)[m
+Author: Kescefko <markgyuro@gmail.com>
+Date:   Mon Aug 26 11:09:45 2024 +0200
+
+    commit
+
+[33mcommit 8c2e4a14e8f132a8673858cc4015dae5f7524d47[m
+Author: Kescefko <markgyuro@gmail.com>
+Date:   Mon Aug 26 11:09:18 2024 +0200
+
+    test
+
+[33mcommit 30b96ccd7276f93c1169492430e5837a1703e78f[m
+Author: Kescefko <markgyuro@gmail.com>
+Date:   Mon Aug 26 10:53:08 2024 +0200
+
+    commit file_A change
+
+[33mcommit 5d9a402df52257d9b699a5ef872526d8f20c3789[m
+Author: Kescefko <78681186+Kescefko@users.noreply.github.com>
+Date:   Mon Aug 26 10:52:20 2024 +0200
+
+    Create test_B.txt
+
+[33mcommit b78933a9be5254940cfbf2e8303c77615bc5736e[m
+Author: Kescefko <78681186+Kescefko@users.noreply.github.com>
+Date:   Mon Aug 26 10:52:06 2024 +0200
+
+    Create file_A.txt
+
+[33mcommit f8b407007ec3e672d333ebb30d6926faf6797b03[m
+Author: Kescefko <78681186+Kescefko@users.noreply.github.com>
+Date:   Mon Aug 26 10:51:46 2024 +0200
+
+    Initial commit
